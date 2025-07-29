@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast;Cinephile;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
- <img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4yODhvcGg2ZDBvczBhY2hna3AydDgwNnJyZWh5dzh6bWE2YnJ4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ZVBVvY5kS7qUHhqI2/giphy.gif" alt="Dancing GIF" width="200"/>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejU3d25hMjZsNmlzeXJ1NHMwMjR6Ymx0YzZsYnI4MWI4bjJzdTdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6qIhoiPgxBba9L7BU/giphy.gif"  />
 <p>
   I am...<br>
   🎮 a gamer,<br>
