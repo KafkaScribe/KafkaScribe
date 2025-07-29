@@ -71,12 +71,12 @@ GetParamURLs is a Python script for bug bounty hunters that finds URLs with quer
 <img src="https://streak-stats.demolab.com?user=ShrekBytes&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShrekBytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KafkaScribe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/ShrekBytes/ShrekBytes/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/KafkaScribe/KafkaScribe/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 <details>
