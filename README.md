@@ -31,7 +31,7 @@
 
 ### 🚀 [WiseCart](https://github.com/KafkaScribe/WiseCart)
 
-GetParamURLs is a Python script for bug bounty hunters that finds URLs with query parameters using gau and waybackurls, filters out unwanted MIME types, and removes duplicates so that you can focus only on what is important.
+WiseCart is a smart product comparison project that helps users find the best deals across multiple online stores. Users can compare prices, features, and make informed buying decisions all in one place.
 
 <h2 align="center">.skills(<img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />)</h2>
 
