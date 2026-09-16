@@ -19,11 +19,11 @@
 
 <div style="clear: both;"></div>
 
-<h2 align="center">.stats(<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />)</h2>
+<h2 align="center">.stats(⚡)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KafkaScribe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=KafkaScribe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KafkaScribe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=KafkaScribe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=react&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 ---
