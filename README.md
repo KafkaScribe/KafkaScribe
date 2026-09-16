@@ -17,7 +17,9 @@
   👾 a Python enthusiast.
 </p>
 
-<div style="clear: both;"></div>
+<br clear="both">
+
+---
 
 <h2 align="center">.stats(⚡)</h2>
 
